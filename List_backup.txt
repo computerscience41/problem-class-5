@@ -1,0 +1,6 @@
+Apples
+Bananas
+Oranges
+Bread
+Milk
+Eggs
